@@ -14,7 +14,7 @@ This is a simple weather application that uses the OpenWeatherMap API to fetch a
 
 The live version of the application can be accessed at the following link:
 
-[Check Weather ☁️🌡️❄️](https://coruscating-beijinho-bd4f72.netlify.app/)
+[Check Weather ☁️🌡️❄️](https://legendary-speculoos-3e761f.netlify.app/)
 
 ## Local Setup
 
