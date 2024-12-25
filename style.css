@@ -230,3 +230,42 @@ footer {
     align-items: flex-start;
     padding: 1px;
 }
+
+@media (max-width: 600px) {
+    body {
+        flex-direction: column;
+        gap: 1em;
+        overflow: auto;
+        padding: 1em;
+    }
+
+    textarea {
+        height: 60px;
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    .container,
+    .result-container {
+        width: 95%;
+        max-width: 400px;
+    }
+
+    .result-container {
+        height: auto;
+        min-height: 200px;
+        font-size: 24px;
+        padding: 15px;
+    }
+
+    .pixel-grid {
+        transform: scale(0.6);
+        margin: -30px 0;
+    }
+
+    .footer-bottom {
+        font-size: 8px;
+        height: auto;
+        padding: 1px;
+    }
+}

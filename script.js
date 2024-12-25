@@ -5,7 +5,7 @@ const temp = document.querySelector(".temp");
 const humid = document.querySelector(".humid");
 const cloud = document.querySelector(".cloud");
 
-document.getElementById('textarea').addEventListener('keydown', function (event) {
+document.getElementById('textarea').addEventListener('keypress', function (event) {
     if (event.key === 'Enter') {
         event.preventDefault();
         var cityName = event.target.value;
