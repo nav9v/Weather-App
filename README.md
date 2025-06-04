@@ -2,6 +2,9 @@
 
 This is a simple weather application that uses the OpenWeatherMap API to fetch and display weather data for a specific city.
 
+
+![weather](https://github.com/user-attachments/assets/3579ae65-6467-469c-bca5-a3498a18382b)
+
 ## Features
 
 - Fetches and displays the following weather data:
